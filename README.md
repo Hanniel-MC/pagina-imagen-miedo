@@ -1,1 +1,1 @@
-# pagina-imagen-miedo
+# pagina-imagenes-miedo
